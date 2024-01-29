@@ -1,1 +1,1 @@
-print ("Работа @@@ Git")ex
+print ("Работа @@@ Git")
